@@ -1,0 +1,30 @@
+{
+  "target_subject_id": "CG0039",
+  "profile_summary": {
+    "age": 39,
+    "sex": "female",
+    "BMI": 21.8,
+    "dominant_demo_pattern": "early photo-oxidative stress + stress/recovery axis + barrier resilience pressure",
+    "notable_signals": [
+      "apparent facial age 41.2 vs chronological age 39",
+      "pigmentation/UV index 62",
+      "barrier dryness visual score 57",
+      "stress score 67 and sleep 6.4h",
+      "skin scRNA ROS response elevated in melanocyte and keratinocyte",
+      "oral microbiome signal mild/moderate, not dominant"
+    ],
+    "mechanism_scores": {
+      "mitochondrial_repair_decline": 49.2,
+      "oxidative_photooxidative_stress": 64.5,
+      "chronic_inflammation_SASP": 55.5,
+      "ECM_collagen_degradation": 43.8,
+      "glycation_metabolic_stress": 34.2,
+      "barrier_resilience_decline": 56.8,
+      "DNA_damage_cellular_senescence": 45.6,
+      "proteostasis_autophagy_decline": 31.8,
+      "oral_microbiome_mucosal_inflammation_axis": 38.2,
+      "circadian_stress_recovery_axis": 61.0
+    }
+  },
+  "disclaimer": "Synthetic demo data only. Not real biomedical data."
+}

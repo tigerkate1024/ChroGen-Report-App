@@ -1,0 +1,9 @@
+ingredient_id,primary_axis,delta_oxidative_photooxidative_stress,delta_chronic_inflammation_SASP,delta_ECM_collagen_degradation,delta_glycation_metabolic_stress,delta_barrier_resilience_decline,delta_mitochondrial_repair_decline,delta_DNA_damage_cellular_senescence,delta_proteostasis_autophagy_decline,delta_oral_microbiome_mucosal_inflammation_axis,delta_circadian_stress_recovery_axis,safety_confidence,evidence_level
+ergothioneine_like,antioxidant,-0.55,-0.2,-0.1,0.0,-0.05,0.0,0.0,0.0,0.0,0.0,medium,strong_in_vitro_medium_human
+resveratrol_like,sirtuin_NRF2_polyphenol,-0.35,-0.18,-0.2,-0.05,-0.08,0.0,-0.06,-0.1,0.0,-0.05,medium,mixed_human_strong_preclinical
+omega3_like,anti_inflammatory_membrane,-0.1,-0.42,-0.1,0.0,-0.08,0.0,0.0,0.0,-0.12,-0.03,high,moderate_human
+collagen_peptide_like,ECM_support,-0.02,-0.05,-0.34,0.0,0.0,-0.02,0.0,0.0,0.0,0.0,medium,moderate_human_skin
+ceramide_like,barrier_lipid,0.0,-0.05,-0.05,0.0,-0.42,0.0,0.0,0.0,0.0,0.0,medium,moderate_human_skin
+glycation_blocker_like,AGE_RAGE,-0.05,-0.05,-0.08,-0.48,0.0,0.0,0.0,0.0,0.0,0.0,low_medium,limited_human
+mitochondrial_support_like,NAD_mitochondria,-0.12,-0.08,-0.05,0.0,0.0,-0.38,0.0,-0.12,0.0,-0.08,medium,mixed_human
+oral_probiotic_like,oral_microbiome,-0.06,-0.18,0.0,0.0,0.0,0.0,0.0,0.0,-0.45,0.0,low_medium,early_human
